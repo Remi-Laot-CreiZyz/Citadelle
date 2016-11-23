@@ -1,0 +1,112 @@
+{
+  "blue" : [
+    {
+      "title" : "temple",
+      "description" : "",
+      "cost" : 1,
+      "quantity" : 3
+    },
+    {
+      "title" : "church",
+      "description" : "",
+      "cost" : 2,
+      "quantity" : 3
+    },
+    {
+      "title" : "monastery",
+      "description" : "",
+      "cost" : 3,
+      "quantity" : 4
+    },
+    {
+      "title" : "cathedral",
+      "description" : "",
+      "cost" : 5,
+      "quantity" : 2
+    }
+  ],
+  "red" : [
+    {
+      "title" : "watchtower",
+      "description" : "",
+      "cost" : 1,
+      "quantity" : 3
+    },
+    {
+      "title" : "prison",
+      "description" : "",
+      "cost" : 2,
+      "quantity" : 3
+    },
+    {
+      "title" : "baracks",
+      "description" : "",
+      "cost" : 3,
+      "quantity" : 3
+    },
+    {
+      "title" : "fortress",
+      "description" : "",
+      "cost" : 5,
+      "quantity" : 3
+    }
+  ],
+  "green" : [
+    {
+      "title" : "tavern",
+      "description" : "",
+      "cost" : 1,
+      "quantity" : 5
+    },
+    {
+      "title" : "stall",
+      "description" : "",
+      "cost" : 2,
+      "quantity" : 4
+    },
+    {
+      "title" : "market",
+      "description" : "",
+      "cost" : 2,
+      "quantity" : 4
+    },
+    {
+      "title" : "trading post",
+      "description" : "",
+      "cost" : 3,
+      "quantity" : 3
+    },
+    {
+      "title" : "port",
+      "description" : "",
+      "cost" : 4,
+      "quantity" : 3
+    },
+    {
+      "title" : "town hall",
+      "description" : "",
+      "cost" : 5,
+      "quantity" : 2
+    }
+  ],
+  "Yellow" : [
+    {
+      "title" : "manor",
+      "description" : "",
+      "cost" : 3,
+      "quantity" : 5
+    },
+    {
+      "title" : "palace",
+      "description" : "",
+      "cost" : 5,
+      "quantity" : 2
+    },
+    {
+      "title" : "castle",
+      "description" : "",
+      "cost" : 4,
+      "quantity" : 5
+    }
+  ]
+}
